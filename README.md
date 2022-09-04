@@ -6,8 +6,8 @@
 
 
 ### To Use:
-- git clone ***git@github.com:sandeepgangaram/pong-game.git***
-- run main.py
+- Clone the repo
+- Run main.py
 
 ### Trivia:
 **Pong**, groundbreaking electronic game released in 1972 by the 
